@@ -241,11 +241,11 @@ body {
     border-top-left-radius: 3px;
     border-top-right-radius: 3px; }
     .card__picture--1 {
-      background-image: linear-gradient(to right bottom, #ee5007, #b22727), url(../../img/moto/gs-front.jpeg); }
+      background-image: url(../../img/moto/gs.jpeg); }
     .card__picture--2 {
-      background-image: linear-gradient(to right bottom, #006e7f, #f8cb2e), url(../../img/moto/v-strom.jpeg); }
+      background-image: url(../../img/moto/v-strom.jpeg); }
     .card__picture--3 {
-      background-image: linear-gradient(to right bottom, #2998ff, #5643fa), url(../../img/moto/yamaha-250-f.jpeg); }
+      background-image: url(../../img/moto/yamaha-250-f.jpeg); }
   .card__heading {
     font-size: 2rem;
     font-weight: 300;
