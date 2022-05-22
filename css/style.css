@@ -293,7 +293,7 @@ body {
     .card__picture--2 {
       background-image: url(../img/v-strom.jpeg); }
     .card__picture--3 {
-      background-image: url(../img/yamaha-250-f.jpeg); }
+      background-image: url("../img/yamaha-250-f.jpeg"); }
   .card__heading {
     font-size: 2rem;
     font-weight: 300;
