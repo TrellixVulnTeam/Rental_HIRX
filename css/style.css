@@ -289,11 +289,11 @@ body {
     border-top-left-radius: 3px;
     border-top-right-radius: 3px; }
     .card__picture--1 {
-      background-image: url("https://github.com/tsmolarczyk/Rental/tree/main/img/gs.jpeg"); }
+      background-image: url(../img/gs.jpeg); }
     .card__picture--2 {
-      background-image: url("https://github.com/tsmolarczyk/Rental/tree/main/img/v-strom.jpeg"); }
+      background-image: url(../img/v-strom.jpeg); }
     .card__picture--3 {
-      background-image: url("https://github.com/tsmolarczyk/Rental/tree/main/img/yamaha-250-f.jpeg"); }
+      background-image: url(../img/yamaha-250-f.jpeg); }
   .card__heading {
     font-size: 2rem;
     font-weight: 300;
@@ -873,7 +873,7 @@ body {
   padding: 15rem 0; }
 
 .book {
-  background: linear-gradient(105deg, rgba(255, 255, 255, 0.9) 50%, transparent 50%), url("../../img/scooter.jpeg");
+  background: linear-gradient(105deg, rgba(255, 255, 255, 0.9) 50%, transparent 50%), url(../img/scooter.jpeg);
   background-size: 100%;
   border-radius: 3px;
   box-shadow: 0 1.5rem 4rem rgba(0, 0, 0, 0.2);
